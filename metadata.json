@@ -1,0 +1,8 @@
+{
+  "name": "Clube Reserve - Sistema de Reservas de Clubes",
+  "description": "Uma plataforma completa para gestão e reserva de clubes de lazer, com painel administrativo, integração de pagamentos e vitrine pública elegante.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}

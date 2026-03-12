@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Garantir que todas as páginas e componentes sejam escaneados (Tailwind v4) */
+@source "./**/*.tsx";
+@source "./**/*.ts";
+@source "./**/*.html";
